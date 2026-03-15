@@ -1,2 +1,2 @@
-# PyClimaExplorer
+# QUANTUM BITS HACK IT OUT
 HACKATHON
